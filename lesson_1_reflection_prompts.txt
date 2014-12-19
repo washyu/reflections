@@ -1,0 +1,54 @@
+How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+
+
+    It only showed the differences between the two files so it cutting down the amount of code you need to look through.
+
+How could having easy access to the entire history of a file make you a more
+ efficient programmer in the long term?
+
+
+
+    You can see the progress that has been made on the code.  Also you can see the issues that were hit before and see the fixes. 
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+ commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+
+
+    One pro is that you have ability to add notes to the chagnes describing the what the chagnes are and why you did them.  The con is that if it is done automaticly you will poluite the file history with minor changes and it will be had to track down issues to changes.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+
+
+    Usualy when you are coding you are making changes in multiple files at once allowing you to commit all the chagnes at once allows you to keep the changes grouped together.  While google doc most of the time you are only working with one file at a time and projects tend to be carpentalized in to one document.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+
+
+    Git log will show you the commit notes and changes.   Git diff can show you the differences between two files.
+
+
+How might using version control make you more confident to make changes that
+ could break something?
+
+
+
+    As long as your commits are good (as in you don't introduce breaking changes) you alway have a way to go back to a working state incase things to catastropic.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+
+
+    I would like to use GIT for my arduino projects and for storing my portfolio work.  
