@@ -17,6 +17,8 @@ organized? How would branches help?
 	Branches are great if you want to working version of your project as you implment new features.  This way the historys are grouped by milestone. 
 
 How do the diagrams help you visualize the branch structure?
+	
+	You can quickly see the previous commit paths back to the intial commit.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
