@@ -25,9 +25,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+	You could use dropbox to share files givin access to your collaborators would be eayser.  But managing the changes would be harder.  There would not be any check system for addiditon/modifications.  All code would have to be manual merged when someone "checks in"  or there would have to be a secondary file check out system that would have to be strictly managed.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If you are making changes for your specific need but don't really fit will well with the origional intent of the program.  Or if you want to develop the program for a different architector then it was designed for you would rather take changes from them to filter out arch specific changes.
